@@ -8,7 +8,6 @@ My name is Quang Dung, or John. I am a Vietnamese student who is interested in C
 
 ### Activities
 
-- Mentee of the (Math and Science Summer Program)[https://www.masspvn.com] (2021.06 - 2021.08)
-  - Studied in the Aerospace program 
-  - Obtained 3d design skills, python programming skills
-  - You can see a 3d aircraft model that i worked on during the program (here)[https://a360.co/3xVYvao?fbclid=IwAR0mt6cQjJ1YFCgLiLOFlTCZWYu7SJjnMKaEkGFpyVESgPn61VI4sEKgNEQ]
+- Mentee of the [Math and Science Summer Program](https://en.masspvn.com) (2021.06 - 2021.08)
+- Completed an [Elements of AI course](https://www.elementsofai.com) by Reaktor and the University of Helsinki
+- Participant of the [RMIT Global Summer School Program](https://www.rmit.edu.au/study-with-us/international-students/programs-for-international-students/global-summer-school-program) 
