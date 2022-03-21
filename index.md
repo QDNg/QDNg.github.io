@@ -21,3 +21,6 @@ My name is Quang Dung, or John. I am a Vietnamese student who is interested in C
   -  Earned one subject of credit towards Bachelor degrees in Computer Science and Information Technology at RMIT University
 
 ### Things I have worked on
+
+- [3D aircraft model](https://a360.co/3xVYvao)
+- A text-based adventure game using Python
