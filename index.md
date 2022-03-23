@@ -5,6 +5,7 @@ My name is Quang Dung, or John. I am a Vietnamese student who is interested in C
 ### Education
 
 - Student at Tran Dai Nghia High School for the Gifted (2015 - 2022)
+
 ### Activities
 
 - Mentee of the [Math and Science Summer Program](https://en.masspvn.com) (2021.06 - 2021.08)
