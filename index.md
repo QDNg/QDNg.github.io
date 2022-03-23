@@ -25,3 +25,5 @@ My name is Quang Dung, or John. I am a Vietnamese student who is interested in C
 
 - [3D aircraft model](https://a360.co/3xVYvao)
 - A text-based adventure game using Python
+- An Object-oriented Information manager
+- Online book containing my notes on the Elements of AI program
